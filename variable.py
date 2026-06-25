@@ -1,15 +1,15 @@
-x=10;
+# x=10;
 
-print(x)
+# print(x)
 
-name="abbas"
-age=26
-is_male=True
-height=5.8
+# name="abbas"
+# age=26
+# is_male=True
+# height=5.8
 
-print(name,age,is_male, height)
+# print(name,age,is_male, height)
 
-user_name="abbas"
+# user_name="abbas"
 
 # wrong declaration 
 # user-name="ali"
@@ -41,23 +41,28 @@ user_name="abbas"
 # print(x)
 
 
-x=10
+# x=10
 
-def value():
-    x=100
-    print(x)
+# def value():
+#     x=100
+#     print(x)
 
-value()    
-print(x)
+# value()    
+# print(x)
 
-x=10
+# x=10
 
-def value():
-     global x
-     x=100
-     print(x)
+# def value():
+#      global x
+#      x=100
+#      print(x)
 
-value()    
-print(x)
-print(id(x))
+# value()    
+# print(x)
+# print(id(x))
 
+# a=10
+# b=a
+
+# a=20
+# print(b)

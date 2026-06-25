@@ -1,0 +1,30 @@
+# number=[1,2,3,4,5]
+
+# print(number)
+
+# data=["abbas",26,5.8,"50000","web developer"]
+
+# print(data)
+
+# fruits=["Apple","Banana","Mango"]
+
+# print(fruits[-1])
+
+# num=[10,20,30,40,50]
+
+# print(num[1:4])
+
+# print(num[::-1])
+
+
+fruits=["Apple","Banana"]
+
+fruits.append("mango")
+
+print(fruits)
+
+fruits = ["Apple", "Mango"]
+
+fruits.insert(1, "Banana")
+
+print(fruits)

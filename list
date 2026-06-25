@@ -17,14 +17,64 @@
 # print(num[::-1])
 
 
-fruits=["Apple","Banana"]
+# fruits=["Apple","Banana"]
 
-fruits.append("mango")
+# fruits.append("mango")
 
-print(fruits)
+# print(fruits)
 
-fruits = ["Apple", "Mango"]
+# fruits = ["Apple", "Mango"]
 
-fruits.insert(1, "Banana")
+# fruits.insert(1, "Banana")
 
-print(fruits)
+# print(fruits)
+
+# fruits=["Apple","Banana","Mango"]
+
+
+# fruits.remove("Banana")
+
+# print(fruits)
+
+# fruits=["Apple","Banana","Mango"]
+
+
+# fruits.pop(0)
+
+# print(fruits)
+
+# numbers = [5,2,8,1]
+
+# numbers.sort()
+
+# print(numbers)
+
+
+# numbers = [5,2,8,1]
+
+# numbers.sort(reverse=True)
+
+# print(numbers)
+
+# names = ["Ali","Abbas","Ahmed"]
+
+# names.sort()
+
+# print(names)
+
+# squares = []
+
+# for i in range(5):
+#     squares.append(i*i)
+
+# print(squares)
+
+
+marks = [80, 90, 70, 95, 60]
+print(max(marks))
+
+avg = sum(marks) / len(marks)
+
+print(avg)
+
+print(sum(marks))
